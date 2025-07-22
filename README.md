@@ -34,7 +34,7 @@ If you use or refer to this material, please cite the original book chapter:
 
 > González-Moreno, M.T., Muñoz-Gómez, C., & Cambronero-Ruiz, L. (2025).  
 > *The use of GEE to assess land use changes and vegetation status in human-affected areas*.  
-> In [Book Title Here], Publisher (Add full citation or DOI when available).
+> In [Book Title], Publisher (DOI when available).
 
 ---
 
