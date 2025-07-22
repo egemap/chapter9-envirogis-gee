@@ -21,10 +21,10 @@ The selected study area is located in **Casabermeja (Málaga, Spain)**, and the 
 
 The repository includes code for:
 
-- Generating Sentinel-2 RGB composites and calculating the NDVI and NDMI indices
-- Creating a GIF animation to visualize seasonal and event-driven changes
-- Developing an interactive swipe viewer for intuitive visual comparison
-- Using GEE assets to avoid repeating the image generation and configuration process
+- Generating **Sentinel-2 RGB composites** and calculating the **NDVI and NDMI indices**
+- Creating a **GIF animation** to visualize seasonal and event-driven changes
+- Developing an **interactive swipe viewer** for intuitive visual comparison
+- Using **GEE assets** to avoid repeating the image generation and configuration process
 
 ---
 
