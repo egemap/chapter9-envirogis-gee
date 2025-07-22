@@ -40,6 +40,6 @@ If you use or refer to this material, please cite the original book chapter:
 
 ## 📬 Contact
 
-For questions or feedback, feel free to contact the authors or open an issue in this repository.
+For questions or feedback, feel free to contact the authors.
 
 ---
