@@ -1,4 +1,4 @@
-# 🌍 Google Earth Engine Chapter: Land Use and Vegetation Change Assessment
+# Google Earth Engine Chapter: Land Use and Vegetation Change Assessment
 
 This repository contains the codes associated with the book chapter titled:
 
