@@ -1,4 +1,5 @@
 // ===== CREATION OF ASSETS =====
+// Authors: María Teresa González-Moreno, Casandra Muñoz-Gómez, Laura Cambronero-Ruiz
 
 Map.setOptions('HYBRID'); // Map display mode
 // Geometry of the study area
@@ -121,3 +122,9 @@ Export.image.toAsset({
   scale: 10,
   maxPixels: 1e13
 });
+
+
+// If you use or refer to this material, please cite the original book chapter:
+// González-Moreno, M.T., Muñoz-Gómez, C., & Cambronero-Ruiz, L. (2025).
+// The use of GEE to assess land use changes and vegetation status in human-affected areas.
+// In EnviroGIS, Elsevier (DOI when available).
