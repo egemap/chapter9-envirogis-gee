@@ -1,4 +1,4 @@
-//SCRIPT 1 - RGB AND INDICES GENERATION
+//RGB AND INDICES GENERATION
 
 Map.setOptions('HYBRID');  //Set the map background
 var geometry = ee.Geometry.Polygon([   
