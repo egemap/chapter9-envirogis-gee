@@ -23,7 +23,7 @@ var Sep09 = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED")  //Load the satell
                 return img.clip(geometry);                  // Clip each image to our defined geometry
               });
               
-//Create Sentinel 2 image collection for February 5, 2025
+//Create Sentinel 2 image collection for February 6, 2025
 var Feb06 = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED")
               .select('B.*') 
               .filterBounds(geometry)
