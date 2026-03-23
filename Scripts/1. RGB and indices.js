@@ -106,8 +106,8 @@ var rgbVis = { //We declare a specific variable for the visualization of the RGB
 //NDVI
 NDVIStats_S.evaluate(function(statsNDVI_S) { //Converts object (statsNDVI_S) to real JavaScript data
   var ndviVis09 = {       //Set a new variable
-    min: statsNDVI_S.NDVI_min, //Minimun real value for NDVI
-    max:statsNDVI_S.NDVI_max, //Minimun real value for NDVI
+    min: statsNDVI_S.NDVI_min, //Minimum real value for NDVI
+    max:statsNDVI_S.NDVI_max, //Maximum real value for NDVI
     palette: ['#d73027', '#f46d43', '#fee08b', '#d9ef8b', '#66bd63', '#1a9850'] //Select colors
   };
   Map.addLayer(NDVImed_S, ndviVis09, 'NDVI-Septiembre'); //Add an image to the map, visualization parameters
@@ -125,8 +125,8 @@ NDVIStats_F.evaluate(function(statsNDVI_F) {
 //NDMI
 NDMIStats_S.evaluate(function(statsNDMI_S) { //Converts object (statsNDMI_S) to real JavaScript data
   var ndmiVis09 = {       //Set a new variable
-    min: statsNDMI_S.NDMI_min, //Minimun real value for NDMI
-    max: statsNDMI_S.NDMI_max, //Minimun real value for NDMI
+    min: statsNDMI_S.NDMI_min, //Minimum real value for NDMI
+    max: statsNDMI_S.NDMI_max, //Maximum real value for NDMI
     palette: ['#a6611a', '#dfc27d', '#f7f7f7', '#80cdc1', '#018571']
   };
   Map.addLayer(NDMImed_S, ndmiVis09, 'NDMI-Septiembre'); //Add an image to the map, visualization parameters
